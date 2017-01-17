@@ -5,10 +5,8 @@ body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #111;
-  background: url('svgs/background.svg') #edeff0;
-  height:53px;
+  background: url('images/background.png') #edeff0;
 }
-
 
 #container {
   max-width: 960px;
